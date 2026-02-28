@@ -13,3 +13,9 @@ Aksesori instalasi listrik & kontrol untuk mesin otomatis.
 - Kabel shielded untuk noise reduction
 
 Setiap produk dilengkapi datasheet dan wiring guide.
+---
+
+## 🌐 Kunjungi Kategori Connector & Cable di Website DAPPRA
+Konektor M12, kabel sensor, dan kabel kontrol resmi tersedia di:
+
+👉 https://dappra.com/product-category/industrial_connectors/
