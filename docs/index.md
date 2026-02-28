@@ -1,42 +1,104 @@
 ---
+title: Produk Otomasi Industri – Dokumentasi Resmi
 layout: default
-title: Automation Products Indonesia
 ---
 
-# 🇮🇩 Automation Products – Indonesia  
-Dokumentasi teknis & katalog produk otomasi industri.
+# 📦 Katalog Produk Otomasi Industri – Indonesia  
+Dokumentasi teknis dan katalog resmi produk otomasi industri dari **DAPPRA Automation Indonesia**.
 
-Disusun oleh **DAPPRA Automation Indonesia**  
-👉 https://dappra.com
+Setiap produk memiliki datasheet, wiring diagram, spesifikasi lengkap, dan panduan instalasi untuk membantu engineer & teknisi dalam implementasi di lapangan.
+
+👉 Website resmi: https://dappra.com
 
 ---
 
-## 📦 Kategori Produk
+## 📡 Sensor Industri
 
-### 🔌 Sensor Industri
-- Proximity Sensor  
-- Photoelectric Sensor  
-- Fiber Optic Sensor  
-- Limit Switch  
+Kategori sensor untuk aplikasi otomatisasi mesin:
 
-### ⚙️ Motor & Penggerak
-- Stepper Motor  
-- Stepper Driver  
-- Servo Motor  
+- Proximity Sensor (NPN / PNP)
+- Photoelectric Sensor
+- Fiber Optic Sensor
+- Limit Switch
+- Sensor untuk conveyor & packaging
 
-### 🖥️ PLC & Kontrol
-- PLC (Digital/Analog IO)  
-- Expansion Module  
-- Modbus RTU/TCP Controller  
+➡ `/sensor/`
 
-### 🖲️ HMI & Panel
-- HMI Touch Panel  
-- Serial/Ethernet Interface  
+---
 
-### 🔗 Konektor & Kabel
-- M12 Connector  
-- Sensor Cable  
-- Control Cable  
+## ⚙️ Motor & Driver
+
+Produk penggerak industri:
+
+- Stepper Motor 20Nm
+- Stepper Driver (Microstep, DSP Driver)
+- Servo Motor
+- Wiring & Parameter Setting
+
+➡ `/motor/`
+
+---
+
+## 🧠 PLC & Controller
+
+Produk kontrol utama untuk mesin otomatis:
+
+- PLC Digital / Analog IO
+- Controller Modbus RS485
+- Expansion Module
+- Serial & Ethernet Communication
+
+➡ `/plc/`
+
+---
+
+## 🖥️ HMI & Panel Operator
+
+Unit tampilan untuk kontrol mesin:
+
+- HMI Touch Panel
+- Serial/Ethernet Interface
+- Monitoring & Alarm
+- Kompatibilitas PLC
+
+➡ `/hmi/`
+
+---
+
+## 🔗 Konektor & Kabel Industri
+
+Aksesori instalasi mesin:
+
+- M12 Connector (A/B/D/X Code)
+- Sensor Cable
+- Control Cable
+- Shielded Cable
+
+➡ `/connector/`
+
+---
+
+## 📄 Datasheet & Wiring Diagram Produk
+
+Dokumen teknis berdasarkan produk:
+
+- Proximity Sensor OA17 / OA25 / OA26  
+- Stepper Motor 110BYG350D  
+- Driver 3ND2283  
+- HMI & PLC  
+- Kabel & Konektor  
+
+➡ `/datasheet/`
+
+---
+
+## 🎯 Tujuan Dokumentasi Produk
+
+- Memberikan informasi teknis yang akurat  
+- Mempermudah instalasi & wiring  
+- Menjamin kompatibilitas antar komponen  
+- Mendukung engineer & teknisi di lapangan  
+- Membangun kepercayaan pelanggan  
 
 ---
 
