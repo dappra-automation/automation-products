@@ -21,3 +21,9 @@ Kategori ini mencakup sensor untuk:
 - **Area/Distance Sensor**  
 
 Gunakan kategori ini untuk menelusuri setiap sensor beserta datasheet, wiring, dan panduan instalasinya.
+---
+
+## 🌐 Kunjungi Kategori Sensor di Website DAPPRA
+Produk sensor industri, katalog resmi, dan panduan penggunaan tersedia di:
+
+👉 https://dappra.com/product-category/sensor/
