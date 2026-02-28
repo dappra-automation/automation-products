@@ -11,3 +11,5 @@ defaults:
 
 plugins:
   - jekyll-seo-tag
+exclude:
+  - README.md
