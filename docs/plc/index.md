@@ -13,3 +13,9 @@ Katalog PLC dan controller untuk sistem otomasi industri.
 - Komunikasi Serial & Ethernet  
 
 Kategori ini menyediakan panduan wiring, register list, serta kompatibilitas produk.
+---
+
+## 🌐 Kunjungi Kategori PLC di Website DAPPRA
+Informasi PLC, controller, dan modul ekspansi tersedia di:
+
+👉 https://dappra.com/product-category/perangkat-kontrol-otomasi/programmable-logic-controller/
