@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dappra-automation.github.io/automation-products/sitemap-txt.txt
+Sitemap: https://dappra-automation.github.io/automation-products/sitemap.xml
