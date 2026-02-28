@@ -13,3 +13,9 @@ Katalog motor dan driver untuk aplikasi penggerak mesin.
 - Motor–Driver Wiring  
 
 Kategori ini menyediakan dokumen spesifikasi, diagram wiring, dan parameter setting.
+---
+
+## 🌐 Kunjungi Kategori Motor & Driver di Website DAPPRA
+Stepper motor, servo, dan industrial driver dapat ditemukan di:
+
+👉 https://dappra.com/product-category/cnc_electrical_control_system/
