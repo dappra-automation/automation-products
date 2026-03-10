@@ -106,5 +106,28 @@ Dokumen teknis berdasarkan produk:
 🌐 https://dappra.com  
 📩 support@dappra.com
 
+<hr>
 
+<h3>DAPPRA Automation Indonesia</h3>
+
+<p>
+Official Website:
+<a href="https://dappra.com" target="_blank">
+DAPPRA Automation Indonesia Official Website
+</a>
+</p>
+
+<p>
+Industrial Automation Products:
+<a href="https://dappra.com/shop/" target="_blank">
+Industrial Automation Product Catalog
+</a>
+</p>
+
+<p>
+Sensors & Industrial Components:
+<a href="https://dappra.com/product-category/sensor/" target="_blank">
+Proximity Sensors, Photoelectric Sensors & Industrial Components
+</a>
+</p>
 <!-- force rebuild -->
